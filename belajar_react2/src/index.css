@@ -1,11 +1,19 @@
 html {
-  font: 100% / 1.5 "Lato", "Hiragino Maru Gothic Pro", "Meiryo UI", Meiryo, "MS PGothic", sans-serif;
+  font: 100% / 1.5 "Lato", "Hiragino Maru Gothic Pro", "Meiryo UI", Meiryo,
+    "MS PGothic", sans-serif;
   background: #f9fbfe;
 }
 
-h1, h2, h3, h4, h5, h6, p, div {
-   color: #2b546a;
-   font-weight: normal;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+div {
+  color: #2b546a;
+  font-weight: normal;
 }
 
 h1 {
@@ -19,11 +27,11 @@ body {
 
 h1 {
   padding-top: 40px;
-  text-align:center;
+  text-align: center;
 }
 
 p {
-  text-align:center;
+  text-align: center;
 }
 
 .language {
