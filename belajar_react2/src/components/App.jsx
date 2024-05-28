@@ -3,7 +3,6 @@ import Language from "./Language";
 
 class App extends React.Component {
   render() {
-    // Tempelkan code yang disediakan di jendela instruksi ke bawah baris ini
     const languageList = [
       {
         name: "HTML & CSS",
